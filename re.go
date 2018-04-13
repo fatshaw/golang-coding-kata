@@ -1,4 +1,4 @@
-package go_common
+package coding_kata
 
 import "strings"
 
